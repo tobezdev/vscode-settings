@@ -59,5 +59,6 @@
     },
     "interactiveWindow.executeWithShiftEnter": true,
     "liveServer.settings.donotShowInfoMsg": true,
-    "settings-repository.repository": "https://github.com/tobezdev/vscode-settings-insiders.git"
+    "settings-repository.repository": "https://github.com/tobezdev/vscode-settings.git",
+    "settings-repository.branch": "insiders"
 }

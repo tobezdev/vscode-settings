@@ -1,0 +1,542 @@
+[
+    {
+        "identifier": "adpyke.codesnap",
+        "version": "1.3.4",
+        "enabled": true
+    },
+    {
+        "identifier": "alexravenna.monokai-dimmed-vibrant",
+        "version": "1.0.4",
+        "enabled": true
+    },
+    {
+        "identifier": "arcanis.vscode-zipfs",
+        "version": "3.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "asgiii.live-serve",
+        "version": "1.0.5",
+        "enabled": true
+    },
+    {
+        "identifier": "astro-build.astro-vscode",
+        "version": "2.10.2",
+        "enabled": true
+    },
+    {
+        "identifier": "atommaterial.a-file-icon-vscode",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ayhamalali.Sk-VSC",
+        "version": "2.6.6",
+        "enabled": true
+    },
+    {
+        "identifier": "BigTechTalk.developers-dark-theme",
+        "version": "0.11.0",
+        "enabled": true
+    },
+    {
+        "identifier": "Bito.Bito",
+        "version": "1.3.4",
+        "enabled": true
+    },
+    {
+        "identifier": "brandonfowler.exe-runner",
+        "version": "1.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "ctcuff.font-preview",
+        "version": "2.2.1",
+        "enabled": true
+    },
+    {
+        "identifier": "Dart-Code.dart-code",
+        "version": "3.91.20240620",
+        "enabled": true
+    },
+    {
+        "identifier": "Dart-Code.flutter",
+        "version": "3.91.20240529",
+        "enabled": true
+    },
+    {
+        "identifier": "destruc7i0n.vscode-bedrock-definitions",
+        "version": "2.0.8",
+        "enabled": true
+    },
+    {
+        "identifier": "DotJoshJohnson.xml",
+        "version": "2.5.1",
+        "enabled": true
+    },
+    {
+        "identifier": "dunstontc.vscode-swift-syntax",
+        "version": "0.0.4",
+        "enabled": true
+    },
+    {
+        "identifier": "ecmel.vscode-html-css",
+        "version": "2.0.10",
+        "enabled": true
+    },
+    {
+        "identifier": "EnkelDigital.open-lnk",
+        "version": "0.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "esbenp.prettier-vscode",
+        "version": "10.4.0",
+        "enabled": true
+    },
+    {
+        "identifier": "evenaven.discode",
+        "version": "2.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "faceair.ayu-one-dark",
+        "version": "1.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.code-runner",
+        "version": "0.12.2",
+        "enabled": true
+    },
+    {
+        "identifier": "GitHub.codespaces",
+        "version": "1.16.23",
+        "enabled": true
+    },
+    {
+        "identifier": "GitHub.github-vscode-theme",
+        "version": "6.3.4",
+        "enabled": true
+    },
+    {
+        "identifier": "GitHub.remotehub",
+        "version": "0.63.2024061801",
+        "enabled": true
+    },
+    {
+        "identifier": "github.vscode-github-actions",
+        "version": "0.26.3",
+        "enabled": true
+    },
+    {
+        "identifier": "HardeepSingh.pyscript",
+        "version": "0.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "hbenl.vscode-test-explorer",
+        "version": "2.21.1",
+        "enabled": true
+    },
+    {
+        "identifier": "icrawl.discord-vscode",
+        "version": "5.8.0",
+        "enabled": true
+    },
+    {
+        "identifier": "iSorp.macro-executor",
+        "version": "0.4.2",
+        "enabled": true
+    },
+    {
+        "identifier": "jackpanyj.zip-preview",
+        "version": "0.0.4",
+        "enabled": true
+    },
+    {
+        "identifier": "jacprosser.discord-rpc",
+        "version": "1.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "JohnHeikens.intelliskript",
+        "version": "1.7.1",
+        "enabled": true
+    },
+    {
+        "identifier": "JohnHeikens.skript",
+        "version": "1.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "johnpapa.winteriscoming",
+        "version": "1.4.4",
+        "enabled": true
+    },
+    {
+        "identifier": "Katsute.settings-repository",
+        "version": "1.0.10",
+        "enabled": true
+    },
+    {
+        "identifier": "KevinRose.vsc-python-indent",
+        "version": "1.18.0",
+        "enabled": true
+    },
+    {
+        "identifier": "KuanHulio.discord",
+        "version": "0.0.6",
+        "enabled": true
+    },
+    {
+        "identifier": "lukaserat.npm-scripts",
+        "version": "1.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "mantou.vscode-boilerplate",
+        "version": "0.0.1",
+        "enabled": false
+    },
+    {
+        "identifier": "MazyCrazy.execoder",
+        "version": "0.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "mcbabo.discord-bot",
+        "version": "1.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "mdebi.fstring-converter",
+        "version": "1.0.8",
+        "enabled": true
+    },
+    {
+        "identifier": "mgmcdermott.vscode-language-babel",
+        "version": "0.0.40",
+        "enabled": true
+    },
+    {
+        "identifier": "mohd-akram.vscode-html-format",
+        "version": "0.1.6",
+        "enabled": true
+    },
+    {
+        "identifier": "monokai.theme-monokai-pro-vscode",
+        "version": "1.3.2",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-azuretools.vscode-docker",
+        "version": "1.29.1",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-python.black-formatter",
+        "version": "2024.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-python.debugpy",
+        "version": "2024.6.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-python.isort",
+        "version": "2023.13.11511010",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-python.python",
+        "version": "2024.9.11731012",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-python.vscode-pylance",
+        "version": "2024.6.1",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.jupyter",
+        "version": "2024.6.2024062001",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.jupyter-keymap",
+        "version": "1.1.2",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.jupyter-renderers",
+        "version": "1.0.18",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
+        "version": "0.1.9",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.vscode-jupyter-slideshow",
+        "version": "0.1.6",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode-remote.remote-containers",
+        "version": "0.373.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode-remote.remote-ssh",
+        "version": "0.112.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode-remote.remote-ssh-edit",
+        "version": "0.86.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode-remote.remote-wsl",
+        "version": "0.88.2",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode-remote.vscode-remote-extensionpack",
+        "version": "0.25.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.anycode-python",
+        "version": "0.0.5",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.azure-account",
+        "version": "0.12.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.azure-repos",
+        "version": "0.39.2024061901",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.cmake-tools",
+        "version": "1.18.42",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.cpptools",
+        "version": "1.21.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.cpptools-extension-pack",
+        "version": "1.3.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.cpptools-themes",
+        "version": "2.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.remote-explorer",
+        "version": "0.5.2024061309",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.remote-repositories",
+        "version": "0.41.2024022202",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.remote-server",
+        "version": "1.5.2",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.test-adapter-converter",
+        "version": "0.1.9",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.vscode-github-issue-notebooks",
+        "version": "0.0.130",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vsliveshare.vsliveshare",
+        "version": "1.0.5932",
+        "enabled": true
+    },
+    {
+        "identifier": "oderwat.indent-rainbow",
+        "version": "8.3.1",
+        "enabled": true
+    },
+    {
+        "identifier": "olivertasevski.vscode-space",
+        "version": "1.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ophuscado.ohled-themes",
+        "version": "1.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "penple.skript-vscode",
+        "version": "2.1.3",
+        "enabled": true
+    },
+    {
+        "identifier": "pieterjongsma.swift-playgrounds",
+        "version": "0.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "PKief.material-product-icons",
+        "version": "1.7.0",
+        "enabled": true
+    },
+    {
+        "identifier": "Rajeshwaran.developer-theme-dark",
+        "version": "5.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "redhat.java",
+        "version": "1.31.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ritwickdey.LiveServer",
+        "version": "5.7.9",
+        "enabled": true
+    },
+    {
+        "identifier": "SantioMC.skriptvs",
+        "version": "0.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "sswg.swift-lang",
+        "version": "1.10.2",
+        "enabled": true
+    },
+    {
+        "identifier": "teabyii.ayu",
+        "version": "1.0.5",
+        "enabled": true
+    },
+    {
+        "identifier": "traBpUkciP.vscode-npm-scripts",
+        "version": "0.2.1",
+        "enabled": true
+    },
+    {
+        "identifier": "twxs.cmake",
+        "version": "0.0.17",
+        "enabled": true
+    },
+    {
+        "identifier": "vadimcn.vscode-lldb",
+        "version": "1.10.0",
+        "enabled": true
+    },
+    {
+        "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "version": "0.2.8",
+        "enabled": true
+    },
+    {
+        "identifier": "VisualStudioExptTeam.vscodeintellicode",
+        "version": "1.3.1",
+        "enabled": true
+    },
+    {
+        "identifier": "vknabel.vscode-apple-swift-format",
+        "version": "1.4.3",
+        "enabled": true
+    },
+    {
+        "identifier": "vscjava.vscode-java-debug",
+        "version": "0.57.0",
+        "enabled": true
+    },
+    {
+        "identifier": "vscjava.vscode-java-dependency",
+        "version": "0.23.6",
+        "enabled": true
+    },
+    {
+        "identifier": "vscjava.vscode-java-pack",
+        "version": "0.27.0",
+        "enabled": true
+    },
+    {
+        "identifier": "vscjava.vscode-java-test",
+        "version": "0.41.1",
+        "enabled": true
+    },
+    {
+        "identifier": "vscjava.vscode-maven",
+        "version": "0.44.0",
+        "enabled": true
+    },
+    {
+        "identifier": "vscode-icons-team.vscode-icons",
+        "version": "12.8.0",
+        "enabled": true
+    },
+    {
+        "identifier": "WakaTime.vscode-wakatime",
+        "version": "24.6.0",
+        "enabled": true
+    },
+    {
+        "identifier": "wasm-fmt.wasm-fmt",
+        "version": "0.4.1",
+        "enabled": false
+    },
+    {
+        "identifier": "wayou.vscode-todo-highlight",
+        "version": "1.0.5",
+        "enabled": true
+    },
+    {
+        "identifier": "webfreak.code-d",
+        "version": "0.23.2",
+        "enabled": true
+    },
+    {
+        "identifier": "wmanth.jar-viewer",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "xshrim.txt-syntax",
+        "version": "0.2.2",
+        "enabled": true
+    },
+    {
+        "identifier": "yamajyn.commandlist",
+        "version": "1.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "yy0931.vscode-sqlite3-editor",
+        "version": "1.0.188",
+        "enabled": true
+    },
+    {
+        "identifier": "yzhang.markdown-all-in-one",
+        "version": "3.6.2",
+        "enabled": true
+    }
+]

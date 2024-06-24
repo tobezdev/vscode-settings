@@ -1,0 +1,63 @@
+{
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "developer-icon-theme",
+    "discord.removeRemoteRepository": true,
+    "discord.detailsEditing": "Editing {file_name} (line {current_line}/{total_lines})",
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "tabnine.experimentalAutoImports": true,
+    "git.enableSmartCommit": true,
+    "redhat.telemetry.enabled": true,
+    "remoteHub.commitDirectlyWarning": "off",
+    "discord.largeImageIdling": "",
+    "vscord.status.idle.check": false,
+    "vscord.status.idle.enabled": false,
+    "vscord.app.name": "Visual Studio Code",
+    "vscord.status.problems.enabled": false,
+    "vscord.status.details.text.editing": "In {workspace}",
+    "vscord.status.details.text.noWorkSpaceText": "(no workspace)",
+    "vscord.status.image.small.idle.text": "zZzZzZzZzZzZz",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": {
+        "*.crt": "default"
+    },
+    "workbench.productIconTheme": "material-product-icons",
+    "window.menuBarVisibility": "compact",
+    "discord.largeImage": "Editing a {lang} file",
+    "vscoderpc.enabled": true,
+    "python.createEnvironment.trigger": "off",
+    "prettier.bracketSameLine": true,
+    "prettier.endOfLine": "auto",
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "prettier.printWidth": 100000000000,
+    "prettier.semi": false,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "none",
+    "prettier.useTabs": true,
+    "workbench.colorTheme": "Monokai",
+    "files.associations": {
+        "*.html": "html",
+        "*.yml": "yaml"
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "liveServer.settings.host": "192.168.0.85",
+    "bitoAI.appearance.fontSize (Match with IDE Font)": false,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "interactiveWindow.executeWithShiftEnter": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "settings-repository.repository": "https://github.com/tobezdev/vscode-settings-insiders.git"
+}

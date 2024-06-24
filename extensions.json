@@ -251,7 +251,7 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2024.9.11731012",
+        "version": "2024.9.11761014",
         "enabled": true
     },
     {
@@ -261,7 +261,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.6.2024062001",
+        "version": "2024.6.2024062401",
         "enabled": true
     },
     {

@@ -16,7 +16,7 @@ This respository contains the settings for my Visual Studio Code: Insiders insta
 6. Select the `Import From ZIP` option in the next dropdown
 7. Select the ZIP you just downloaded or created
 
-If you need a hand with importing these settings, please create an issue here or reach out to the developer: @KatsuteDev
+If you need a hand with importing these settings, please create an issue here or reach out to the developer: [@KatsuteDev](https://github.com/KatsuteDev)
 
 <br>
 

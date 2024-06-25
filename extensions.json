@@ -251,7 +251,7 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2024.9.11761014",
+        "version": "2024.9.2024062506",
         "enabled": true
     },
     {
@@ -426,7 +426,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.10.2",
+        "version": "1.10.3",
         "enabled": true
     },
     {

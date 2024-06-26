@@ -155,11 +155,6 @@
         "enabled": true
     },
     {
-        "identifier": "jacprosser.discord-rpc",
-        "version": "1.1.0",
-        "enabled": true
-    },
-    {
         "identifier": "JohnHeikens.intelliskript",
         "version": "1.7.1",
         "enabled": true
@@ -182,11 +177,6 @@
     {
         "identifier": "KevinRose.vsc-python-indent",
         "version": "1.18.0",
-        "enabled": true
-    },
-    {
-        "identifier": "KuanHulio.discord",
-        "version": "0.0.6",
         "enabled": true
     },
     {
@@ -251,7 +241,7 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2024.9.2024062506",
+        "version": "2024.9.2024062601",
         "enabled": true
     },
     {
@@ -286,7 +276,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.373.0",
+        "version": "0.374.0",
         "enabled": true
     },
     {

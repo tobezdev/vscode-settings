@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2024.9.2024062602",
+        "version": "2024.9.2024062701",
         "enabled": true
     },
     {
@@ -456,7 +456,7 @@
     },
     {
         "identifier": "vscjava.vscode-java-debug",
-        "version": "0.57.0",
+        "version": "0.58.0",
         "enabled": true
     },
     {

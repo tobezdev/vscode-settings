@@ -45,11 +45,6 @@
         "enabled": true
     },
     {
-        "identifier": "Bito.Bito",
-        "version": "1.3.5",
-        "enabled": true
-    },
-    {
         "identifier": "brandonfowler.exe-runner",
         "version": "1.1.1",
         "enabled": true
@@ -61,12 +56,12 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.91.20240624",
+        "version": "3.93.20240702",
         "enabled": true
     },
     {
         "identifier": "Dart-Code.flutter",
-        "version": "3.91.20240529",
+        "version": "3.93.20240702",
         "enabled": true
     },
     {

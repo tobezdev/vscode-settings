@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.93.20240702",
+        "version": "3.93.20240703",
         "enabled": true
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "identifier": "GitHub.codespaces",
-        "version": "1.16.23",
+        "version": "1.17.1",
         "enabled": true
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "identifier": "ms-vscode.remote-explorer",
-        "version": "0.5.2024061309",
+        "version": "0.5.2024070409",
         "enabled": true
     },
     {

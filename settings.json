@@ -60,5 +60,6 @@
     "interactiveWindow.executeWithShiftEnter": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "settings-repository.repository": "https://github.com/tobezdev/vscode-settings.git",
-    "settings-repository.branch": "insiders"
+    "settings-repository.branch": "insiders",
+    "editor.stickyScroll.enabled": false
 }

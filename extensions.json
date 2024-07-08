@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.6.1",
+        "version": "2024.7.1",
         "enabled": true
     },
     {

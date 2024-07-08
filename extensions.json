@@ -26,7 +26,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.10.2",
+        "version": "2.11.0",
         "enabled": true
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.93.20240703",
+        "version": "3.93.20240708",
         "enabled": true
     },
     {
@@ -411,7 +411,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.10.3",
+        "version": "1.10.4",
         "enabled": true
     },
     {

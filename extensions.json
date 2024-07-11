@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.93.20240708",
+        "version": "3.93.20240711",
         "enabled": true
     },
     {
@@ -231,7 +231,7 @@
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2024.6.0",
+        "version": "2024.8.0",
         "enabled": true
     },
     {
@@ -311,7 +311,7 @@
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.18.42",
+        "version": "1.18.43",
         "enabled": true
     },
     {

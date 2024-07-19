@@ -111,7 +111,7 @@
     },
     {
         "identifier": "GitHub.codespaces",
-        "version": "1.17.1",
+        "version": "1.17.2",
         "enabled": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.0",
+        "version": "1.21.1",
         "enabled": true
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
-        "version": "1.0.5932",
+        "version": "1.0.5936",
         "enabled": true
     },
     {
@@ -386,7 +386,7 @@
     },
     {
         "identifier": "PKief.material-product-icons",
-        "version": "1.7.0",
+        "version": "1.7.1",
         "enabled": true
     },
     {
@@ -411,7 +411,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.10.4",
+        "version": "1.10.5",
         "enabled": true
     },
     {

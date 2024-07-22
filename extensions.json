@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.6.2024070901",
+        "version": "2024.6.2024072201",
         "enabled": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.377.0",
+        "version": "0.378.0",
         "enabled": true
     },
     {
@@ -411,7 +411,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.10.5",
+        "version": "1.10.6",
         "enabled": true
     },
     {
@@ -506,7 +506,7 @@
     },
     {
         "identifier": "xshrim.txt-syntax",
-        "version": "0.2.2",
+        "version": "0.2.4",
         "enabled": true
     },
     {

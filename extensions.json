@@ -26,7 +26,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.11.0",
+        "version": "2.12.6",
         "enabled": true
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.6.2024072201",
+        "version": "2024.7.2024072301",
         "enabled": true
     },
     {

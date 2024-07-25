@@ -236,7 +236,7 @@
     },
     {
         "identifier": "ms-python.isort",
-        "version": "2023.13.11511010",
+        "version": "2023.13.12071014",
         "enabled": true
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.7.2024072301",
+        "version": "2024.7.2024072401",
         "enabled": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.378.0",
+        "version": "0.379.0",
         "enabled": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.2",
+        "version": "1.21.3",
         "enabled": true
     },
     {
@@ -456,7 +456,7 @@
     },
     {
         "identifier": "vscjava.vscode-java-dependency",
-        "version": "0.23.7",
+        "version": "0.24.0",
         "enabled": true
     },
     {

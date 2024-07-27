@@ -26,7 +26,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.12.6",
+        "version": "2.12.8",
         "enabled": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.3",
+        "version": "1.21.4",
         "enabled": true
     },
     {

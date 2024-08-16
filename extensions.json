@@ -110,6 +110,11 @@
         "enabled": true
     },
     {
+        "identifier": "GitBook.gitbook-vscode",
+        "version": "0.0.31",
+        "enabled": true
+    },
+    {
         "identifier": "GitHub.codespaces",
         "version": "1.17.2",
         "enabled": true

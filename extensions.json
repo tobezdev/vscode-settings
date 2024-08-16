@@ -26,7 +26,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.12.8",
+        "version": "2.14.0",
         "enabled": true
     },
     {
@@ -56,12 +56,12 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.93.20240723",
+        "version": "3.95.20240801",
         "enabled": true
     },
     {
         "identifier": "Dart-Code.flutter",
-        "version": "3.93.20240702",
+        "version": "3.95.20240801",
         "enabled": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "10.4.0",
+        "version": "11.0.0",
         "enabled": true
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "identifier": "GitHub.remotehub",
-        "version": "0.63.2024061801",
+        "version": "0.63.2024080801",
         "enabled": true
     },
     {
@@ -200,11 +200,6 @@
         "enabled": true
     },
     {
-        "identifier": "mdebi.fstring-converter",
-        "version": "1.0.8",
-        "enabled": true
-    },
-    {
         "identifier": "mgmcdermott.vscode-language-babel",
         "version": "0.0.40",
         "enabled": true
@@ -221,7 +216,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.29.1",
+        "version": "1.29.2",
         "enabled": true
     },
     {
@@ -231,7 +226,7 @@
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2024.8.0",
+        "version": "2024.10.0",
         "enabled": true
     },
     {
@@ -241,12 +236,12 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.7.1",
+        "version": "2024.8.1",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.7.2024072401",
+        "version": "2024.8.2024081201",
         "enabled": true
     },
     {
@@ -256,7 +251,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter-renderers",
-        "version": "1.0.18",
+        "version": "1.0.19",
         "enabled": true
     },
     {
@@ -271,12 +266,12 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.379.0",
+        "version": "0.381.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-ssh",
-        "version": "0.112.0",
+        "version": "0.113.1",
         "enabled": true
     },
     {
@@ -306,17 +301,17 @@
     },
     {
         "identifier": "ms-vscode.azure-repos",
-        "version": "0.39.2024061901",
+        "version": "0.39.2024080701",
         "enabled": true
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.18.43",
+        "version": "1.18.44",
         "enabled": true
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.4",
+        "version": "1.21.6",
         "enabled": true
     },
     {
@@ -331,7 +326,7 @@
     },
     {
         "identifier": "ms-vscode.remote-explorer",
-        "version": "0.5.2024070409",
+        "version": "0.5.2024081309",
         "enabled": true
     },
     {
@@ -396,7 +391,7 @@
     },
     {
         "identifier": "redhat.java",
-        "version": "1.32.0",
+        "version": "1.33.0",
         "enabled": true
     },
     {
@@ -411,7 +406,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.10.6",
+        "version": "1.10.7",
         "enabled": true
     },
     {
@@ -461,12 +456,12 @@
     },
     {
         "identifier": "vscjava.vscode-java-pack",
-        "version": "0.27.0",
+        "version": "0.29.0",
         "enabled": true
     },
     {
         "identifier": "vscjava.vscode-java-test",
-        "version": "0.41.1",
+        "version": "0.42.0",
         "enabled": true
     },
     {

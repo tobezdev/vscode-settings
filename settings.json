@@ -64,5 +64,6 @@
     "editor.stickyScroll.enabled": false,
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "gitbook.orgId": "UsWw3ZQyKSqyo97URsS3"
 }

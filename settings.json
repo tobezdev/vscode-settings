@@ -55,7 +55,7 @@
     "bitoAI.codeCompletion.enableCommentToCode": true,
     "editor.inlineSuggest.showToolbar": "always",
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
+        "editor.defaultFormatter": "wasm-fmt.wasm-fmt"
     },
     "interactiveWindow.executeWithShiftEnter": true,
     "liveServer.settings.donotShowInfoMsg": true,

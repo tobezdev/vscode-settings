@@ -126,7 +126,7 @@
     },
     {
         "identifier": "GitHub.remotehub",
-        "version": "0.63.2024080801",
+        "version": "0.63.2024082601",
         "enabled": true
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "identifier": "ms-vscode.azure-repos",
-        "version": "0.39.2024080701",
+        "version": "0.39.2024082601",
         "enabled": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "identifier": "ms-vscode.remote-repositories",
-        "version": "0.41.2024022202",
+        "version": "0.41.2024082601",
         "enabled": true
     },
     {

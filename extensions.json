@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.95.20240824",
+        "version": "3.95.20240827",
         "enabled": true
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.8.1",
+        "version": "2024.8.2",
         "enabled": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.6",
+        "version": "1.22.0",
         "enabled": true
     },
     {

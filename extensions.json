@@ -271,7 +271,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.382.0",
+        "version": "0.383.0",
         "enabled": true
     },
     {
@@ -311,7 +311,7 @@
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.18.44",
+        "version": "1.19.49",
         "enabled": true
     },
     {
@@ -411,7 +411,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.10.7",
+        "version": "1.11.0",
         "enabled": true
     },
     {

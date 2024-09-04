@@ -56,12 +56,12 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.95.20240827",
+        "version": "3.97.20240902",
         "enabled": true
     },
     {
         "identifier": "Dart-Code.flutter",
-        "version": "3.95.20240801",
+        "version": "3.97.20240902",
         "enabled": true
     },
     {
@@ -311,7 +311,7 @@
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.19.49",
+        "version": "1.19.50",
         "enabled": true
     },
     {
@@ -481,7 +481,7 @@
     },
     {
         "identifier": "WakaTime.vscode-wakatime",
-        "version": "24.6.1",
+        "version": "24.6.2",
         "enabled": true
     },
     {
@@ -516,7 +516,7 @@
     },
     {
         "identifier": "yy0931.vscode-sqlite3-editor",
-        "version": "1.0.191",
+        "version": "1.0.192",
         "enabled": true
     },
     {

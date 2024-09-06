@@ -26,7 +26,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.14.1",
+        "version": "2.14.2",
         "enabled": true
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "identifier": "GitHub.remotehub",
-        "version": "0.63.2024082601",
+        "version": "0.64.0",
         "enabled": true
     },
     {
@@ -271,12 +271,12 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.383.0",
+        "version": "0.385.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-ssh",
-        "version": "0.113.1",
+        "version": "0.114.1",
         "enabled": true
     },
     {
@@ -306,12 +306,12 @@
     },
     {
         "identifier": "ms-vscode.azure-repos",
-        "version": "0.39.2024082601",
+        "version": "0.40.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.19.50",
+        "version": "1.19.51",
         "enabled": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "identifier": "ms-vscode.remote-repositories",
-        "version": "0.41.2024082601",
+        "version": "0.42.0",
         "enabled": true
     },
     {

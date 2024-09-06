@@ -72,7 +72,7 @@
     {
         "identifier": "DotJoshJohnson.xml",
         "version": "2.5.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "dunstontc.vscode-swift-syntax",
@@ -107,7 +107,7 @@
     {
         "identifier": "formulahendry.code-runner",
         "version": "0.12.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "GitBook.gitbook-vscode",
@@ -222,12 +222,12 @@
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.29.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-python.black-formatter",
         "version": "2024.2.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-python.debugpy",
@@ -237,7 +237,7 @@
     {
         "identifier": "ms-python.isort",
         "version": "2023.10.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-python.vscode-pylance",
@@ -316,8 +316,8 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.22.2",
-        "enabled": true
+        "version": "1.21.6",
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.cpptools-extension-pack",
@@ -397,12 +397,12 @@
     {
         "identifier": "redhat.java",
         "version": "1.34.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ritwickdey.LiveServer",
         "version": "5.7.9",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "SantioMC.skriptvs",
@@ -452,27 +452,27 @@
     {
         "identifier": "vscjava.vscode-java-debug",
         "version": "0.58.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscjava.vscode-java-dependency",
         "version": "0.24.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscjava.vscode-java-pack",
         "version": "0.29.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscjava.vscode-java-test",
         "version": "0.42.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscjava.vscode-maven",
         "version": "0.44.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",

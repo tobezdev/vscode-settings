@@ -131,7 +131,7 @@
     },
     {
         "identifier": "github.vscode-github-actions",
-        "version": "0.26.3",
+        "version": "0.26.5",
         "enabled": true
     },
     {
@@ -236,17 +236,17 @@
     },
     {
         "identifier": "ms-python.isort",
-        "version": "2023.10.1",
+        "version": "2023.13.12321012",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.8.2",
+        "version": "2024.9.1",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.8.2024081201",
+        "version": "2024.9.2024091101",
         "enabled": true
     },
     {
@@ -271,12 +271,12 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.385.0",
+        "version": "0.386.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-ssh",
-        "version": "0.114.1",
+        "version": "0.114.2",
         "enabled": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.6",
+        "version": "1.22.2",
         "enabled": true
     },
     {

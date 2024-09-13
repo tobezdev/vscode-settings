@@ -2,12 +2,12 @@
     {
         "identifier": "ms-python.python",
         "version": "2024.9.2024062703",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "adpyke.codesnap",
         "version": "1.3.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "alexravenna.monokai-dimmed-vibrant",
@@ -17,12 +17,12 @@
     {
         "identifier": "arcanis.vscode-zipfs",
         "version": "3.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "astro-build.astro-vscode",
         "version": "2.14.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "atommaterial.a-file-icon-vscode",
@@ -42,22 +42,22 @@
     {
         "identifier": "brandonfowler.exe-runner",
         "version": "1.1.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ctcuff.font-preview",
         "version": "2.2.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "Dart-Code.dart-code",
         "version": "3.97.20240902",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "DotJoshJohnson.xml",
         "version": "2.5.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "dunstontc.vscode-swift-syntax",
@@ -67,22 +67,22 @@
     {
         "identifier": "ecmel.vscode-html-css",
         "version": "2.0.10",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "EnkelDigital.open-lnk",
         "version": "0.0.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "esbenp.prettier-vscode",
         "version": "11.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "formulahendry.code-runner",
         "version": "0.12.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "GitBook.gitbook-vscode",
@@ -107,7 +107,7 @@
     {
         "identifier": "github.vscode-github-actions",
         "version": "0.26.5",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "HardeepSingh.pyscript",
@@ -117,7 +117,7 @@
     {
         "identifier": "hbenl.vscode-test-explorer",
         "version": "2.21.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "icrawl.discord-vscode",
@@ -127,17 +127,17 @@
     {
         "identifier": "jackpanyj.zip-preview",
         "version": "0.0.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "JohnHeikens.intelliskript",
         "version": "1.7.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "JohnHeikens.skript",
         "version": "1.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "johnpapa.winteriscoming",
@@ -157,22 +157,22 @@
     {
         "identifier": "lukaserat.npm-scripts",
         "version": "1.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "MazyCrazy.execoder",
         "version": "0.0.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "mgmcdermott.vscode-language-babel",
         "version": "0.0.40",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "mohd-akram.vscode-html-format",
         "version": "0.1.6",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "monokai.theme-monokai-pro-vscode",
@@ -182,37 +182,37 @@
     {
         "identifier": "ms-azuretools.vscode-azureresourcegroups",
         "version": "0.9.5",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.29.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.black-formatter",
         "version": "2024.2.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.debugpy",
         "version": "2024.10.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.isort",
-        "version": "2023.10.1",
-        "enabled": false
+        "version": "2023.13.12321012",
+        "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
         "version": "2024.9.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.7.0",
-        "enabled": false
+        "version": "2024.9.2024091301",
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter-keymap",
@@ -222,17 +222,17 @@
     {
         "identifier": "ms-toolsai.jupyter-renderers",
         "version": "1.0.19",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
         "version": "0.1.9",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-slideshow",
         "version": "0.1.6",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
@@ -262,12 +262,12 @@
     {
         "identifier": "ms-vscode.anycode-python",
         "version": "0.0.5",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.azure-account",
         "version": "0.12.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.azure-repos",
@@ -277,17 +277,17 @@
     {
         "identifier": "ms-vscode.cmake-tools",
         "version": "1.19.51",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.21.6",
-        "enabled": false
+        "version": "1.22.3",
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.cpptools-extension-pack",
         "version": "1.3.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.cpptools-themes",
@@ -296,8 +296,8 @@
     },
     {
         "identifier": "ms-vscode.powershell",
-        "version": "2024.2.2",
-        "enabled": false
+        "version": "2024.3.2",
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.remote-explorer",
@@ -317,27 +317,27 @@
     {
         "identifier": "ms-vscode.test-adapter-converter",
         "version": "0.1.9",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.vscode-github-issue-notebooks",
         "version": "0.0.130",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
         "version": "1.0.5936",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "oderwat.indent-rainbow",
         "version": "8.3.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "olivertasevski.vscode-space",
         "version": "1.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ophuscado.ohled-themes",
@@ -352,7 +352,7 @@
     {
         "identifier": "pieterjongsma.swift-playgrounds",
         "version": "0.1.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "PKief.material-product-icons",
@@ -367,12 +367,12 @@
     {
         "identifier": "redhat.java",
         "version": "1.34.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ritwickdey.LiveServer",
         "version": "5.7.9",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "SantioMC.skriptvs",
@@ -382,57 +382,57 @@
     {
         "identifier": "sswg.swift-lang",
         "version": "1.11.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "traBpUkciP.vscode-npm-scripts",
         "version": "0.2.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "twxs.cmake",
         "version": "0.0.17",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vadimcn.vscode-lldb",
         "version": "1.10.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
         "version": "0.2.8",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
         "version": "1.3.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscjava.vscode-java-debug",
         "version": "0.58.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscjava.vscode-java-dependency",
         "version": "0.24.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscjava.vscode-java-pack",
         "version": "0.29.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscjava.vscode-java-test",
         "version": "0.42.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscjava.vscode-maven",
         "version": "0.44.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
@@ -442,7 +442,7 @@
     {
         "identifier": "WakaTime.vscode-wakatime",
         "version": "24.6.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "wasm-fmt.wasm-fmt",
@@ -457,31 +457,31 @@
     {
         "identifier": "webfreak.code-d",
         "version": "0.23.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "wmanth.jar-viewer",
         "version": "1.2.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "xshrim.txt-syntax",
         "version": "0.2.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "yamajyn.commandlist",
         "version": "1.1.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "yy0931.vscode-sqlite3-editor",
         "version": "1.0.192",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "yzhang.markdown-all-in-one",
         "version": "3.6.2",
-        "enabled": false
+        "enabled": true
     }
 ]

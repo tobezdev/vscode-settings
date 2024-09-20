@@ -211,7 +211,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.9.2024091301",
+        "version": "2024.9.2024091901",
         "enabled": true
     },
     {
@@ -276,12 +276,12 @@
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.19.51",
+        "version": "1.19.52",
         "enabled": true
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.22.3",
+        "version": "1.22.4",
         "enabled": true
     },
     {
@@ -326,7 +326,7 @@
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
-        "version": "1.0.5936",
+        "version": "1.0.5940",
         "enabled": true
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.11.0",
+        "version": "1.11.1",
         "enabled": true
     },
     {

@@ -49,7 +49,7 @@
         "*.yml": "yaml"
     },
     "git.openRepositoryInParentFolders": "always",
-    "liveServer.settings.host": "192.168.0.85",
+    "liveServer.settings.host": "",
     "bitoAI.appearance.fontSize (Match with IDE Font)": false,
     "bitoAI.codeCompletion.enableAutoCompletion": true,
     "bitoAI.codeCompletion.enableCommentToCode": true,

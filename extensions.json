@@ -106,7 +106,7 @@
     },
     {
         "identifier": "github.vscode-github-actions",
-        "version": "0.26.5",
+        "version": "0.27.0",
         "enabled": true
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "identifier": "hbenl.vscode-test-explorer",
-        "version": "2.21.1",
+        "version": "2.22.1",
         "enabled": true
     },
     {
@@ -186,7 +186,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.29.2",
+        "version": "1.29.3",
         "enabled": true
     },
     {
@@ -206,12 +206,12 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.9.1",
+        "version": "2024.9.2",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.9.2024092001",
+        "version": "2024.9.2024092401",
         "enabled": true
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.386.0",
+        "version": "0.387.0",
         "enabled": true
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-wsl",
-        "version": "0.88.3",
+        "version": "0.88.4",
         "enabled": true
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.22.4",
+        "version": "1.22.5",
         "enabled": true
     },
     {
@@ -326,7 +326,7 @@
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
-        "version": "1.0.5940",
+        "version": "1.0.5941",
         "enabled": true
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.11.1",
+        "version": "1.11.2",
         "enabled": true
     },
     {
@@ -476,7 +476,7 @@
     },
     {
         "identifier": "yy0931.vscode-sqlite3-editor",
-        "version": "1.0.192",
+        "version": "1.0.194",
         "enabled": true
     },
     {

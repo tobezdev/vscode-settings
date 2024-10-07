@@ -21,7 +21,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.14.2",
+        "version": "2.15.2",
         "enabled": true
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "identifier": "GitHub.github-vscode-theme",
-        "version": "6.3.4",
+        "version": "6.3.5",
         "enabled": true
     },
     {
@@ -236,12 +236,12 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.387.0",
+        "version": "0.389.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-ssh",
-        "version": "0.114.3",
+        "version": "0.115.0",
         "enabled": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "ms-vscode.test-adapter-converter",
-        "version": "0.1.9",
+        "version": "0.2.0",
         "enabled": true
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "identifier": "sswg.swift-lang",
-        "version": "1.11.2",
+        "version": "1.11.3",
         "enabled": true
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "identifier": "vadimcn.vscode-lldb",
-        "version": "1.10.0",
+        "version": "1.11.0",
         "enabled": true
     },
     {

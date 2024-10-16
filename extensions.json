@@ -86,7 +86,7 @@
     },
     {
         "identifier": "GitBook.gitbook-vscode",
-        "version": "0.0.31",
+        "version": "0.1.0",
         "enabled": true
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-azureresourcegroups",
-        "version": "0.9.6",
+        "version": "0.9.7",
         "enabled": true
     },
     {
@@ -191,12 +191,12 @@
     },
     {
         "identifier": "ms-python.black-formatter",
-        "version": "2024.2.0",
+        "version": "2024.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2024.10.0",
+        "version": "2024.12.0",
         "enabled": true
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.9.2",
+        "version": "2024.10.1",
         "enabled": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "identifier": "ms-vscode.azure-repos",
-        "version": "0.40.0",
+        "version": "0.41.2024101602",
         "enabled": true
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "identifier": "ms-vscode.cpptools",
-        "version": "1.22.7",
+        "version": "1.22.9",
         "enabled": true
     },
     {
@@ -395,6 +395,11 @@
         "enabled": true
     },
     {
+        "identifier": "usernamehw.errorlens",
+        "version": "3.20.0",
+        "enabled": true
+    },
+    {
         "identifier": "vadimcn.vscode-lldb",
         "version": "1.11.0",
         "enabled": true
@@ -476,7 +481,7 @@
     },
     {
         "identifier": "yy0931.vscode-sqlite3-editor",
-        "version": "1.0.195",
+        "version": "1.0.196",
         "enabled": true
     },
     {

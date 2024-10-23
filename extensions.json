@@ -21,7 +21,7 @@
     },
     {
         "identifier": "astro-build.astro-vscode",
-        "version": "2.15.2",
+        "version": "2.15.3",
         "enabled": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "identifier": "Dart-Code.dart-code",
-        "version": "3.99.20240930",
+        "version": "3.99.20241007",
         "enabled": true
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "identifier": "ms-vscode.remote-repositories",
-        "version": "0.43.2024092701",
+        "version": "0.43.2024102201",
         "enabled": true
     },
     {
@@ -442,11 +442,6 @@
     {
         "identifier": "vscode-icons-team.vscode-icons",
         "version": "12.9.0",
-        "enabled": true
-    },
-    {
-        "identifier": "WakaTime.vscode-wakatime",
-        "version": "24.6.2",
         "enabled": true
     },
     {
